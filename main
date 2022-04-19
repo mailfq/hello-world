@@ -4,4 +4,6 @@ use namespace std;
 main()
 {
   cout<<"hello world"<<endl;
+  cout<<"hello world agin"<<endl;
+  cout<<"hello world agin agin"<<endl;
 }
