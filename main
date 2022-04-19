@@ -1,0 +1,7 @@
+#include <stream>
+
+use namespace std;
+main()
+{
+  cout<<"hello world"<<endl;
+}
