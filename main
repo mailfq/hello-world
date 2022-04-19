@@ -7,4 +7,5 @@ main()
   cout<<"hello world agin"<<endl;
   cout<<"hello world agin agin"<<endl;
   a change;
+  changed agin;
 }
